@@ -1,5 +1,4 @@
 # ProjetoJavaScrip
 Projeto Java Script
 
-Estou começando aprender Java Script espero aproveitar 
-O máximo este modulo
+Este e meu primeiro passos no java Script.
